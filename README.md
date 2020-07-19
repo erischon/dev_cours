@@ -4,6 +4,6 @@ Ce sont les fichiers qui me servent à tester les différentes notions que j'app
 
 Légendes :
 
-Ruby : cours sur le Ruby
-TOP : The Odin Project
+Ruby : cours sur le Ruby  
+TOP : The Odin Project  
 
